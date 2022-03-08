@@ -15,7 +15,7 @@ Please add a single test-case in each text-file. Each file must have the followi
 ## Description:
 ```
 
-Remember, the group is awarded 0.5pt (up to 10 pts) for every test-case uploaded such that
+Remember, the group is awarded 0.5pt (up to 5 pts) for every test-case uploaded such that
 - non trivial
 - it documents in comments what behaviour (positive or negative) it is testing.
 - no-one else has posted a test for similar behaviour on the forum yet at the time of submission.
