@@ -1,0 +1,15 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: Yes
+
+## Description: identifiers <id> containing one or more numbers/lettters/underscores are valid
+
+
+123_53y
+idENtify12_6
+User50_9
+_letsgo7
+_LETSGO7

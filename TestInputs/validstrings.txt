@@ -1,0 +1,11 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: Yes
+
+## Description: Valid string literals in the Toy language
+
+string = "hello" //wow
+string = "You are amazing ! " 

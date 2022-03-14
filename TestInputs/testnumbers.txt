@@ -1,0 +1,12 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: Yes
+
+## Description: Number are in range of the language and declared as integers
+
+int y = 123
+int c = 40
+int a = 5000
