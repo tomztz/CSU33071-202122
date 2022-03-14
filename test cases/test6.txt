@@ -1,0 +1,11 @@
+## Group 66
+
+## - Xiaolei Zhang
+## - Tianze Zhang
+
+## Valid: Yes
+
+## Description: identifier = minus identifier
+
+
+d = -a

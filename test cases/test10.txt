@@ -1,0 +1,11 @@
+## Group 66
+
+## - Xiaolei Zhang
+## - Tianze Zhang
+
+## Valid: No
+
+## Description: no backslash in string
+
+
+a = "Hello \ World\n"
