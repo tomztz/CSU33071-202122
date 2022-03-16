@@ -1,0 +1,13 @@
+## Group 69
+
+## - Alice Doherty
+## - Aoife Khan
+
+## Valid: No
+
+## Description: If variables are declared inside an if-statement, they cannot be used outside of it.
+
+void main() {
+    if (true) then int x;
+    x = 1;
+}

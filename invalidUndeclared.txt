@@ -1,0 +1,13 @@
+## Group 69
+
+## - Alice Doherty
+## - Aoife Khan
+
+## Valid: No
+
+## Description: Undeclared variables cannot be used.
+
+void main() {
+    int b;
+    a = 0;
+}
