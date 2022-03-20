@@ -6,5 +6,5 @@
 ## Valid: No
 
 ## Description: Number is too big
-
-int y = 12345676543456543
+int y ;
+y = 12345676543456543 ;
