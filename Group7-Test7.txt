@@ -1,0 +1,21 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: No
+
+// Description: Misuse of structs.
+
+struct thing1
+{
+    int value
+}
+
+int main()
+{
+    thing1 x;
+    x.type = 1; // thing1 does not have "type"
+    thing2 y;
+    y.value = 1; // thing2 does not exist
+}

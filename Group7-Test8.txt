@@ -1,0 +1,29 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: No
+
+// Description: No proc in program.
+
+struct a
+{
+    int one,
+    string two,
+    bool three
+}
+
+struct b
+{
+    int one,
+    string two,
+    bool three
+}
+
+struct c
+{
+    int one,
+    string two,
+    bool three
+}
