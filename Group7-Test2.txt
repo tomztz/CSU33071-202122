@@ -12,7 +12,8 @@ struct option { string a, string b }
 struct choice { option one, option two }
 
 string takeoption () {
-    choice.one.a = "left";
-    choice.two.b = "right";
-    return choice.two.b;
+    choice result;
+    result.one.a = "left";
+    result.two.b = "right";
+    return result.two.b;
 }
