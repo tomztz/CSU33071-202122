@@ -5,10 +5,10 @@
 
 // Valid: No
 
-// Description: Structs that might appear valid but aren't.
+// Description: Struct usage that might appear valid but isn't.
 
 struct thing1 { int one }
-struct thing2 { thing1 two }
+struct thing2 { int two }
 
 int main()
 {
