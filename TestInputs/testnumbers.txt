@@ -6,7 +6,10 @@
 ## Valid: Yes
 
 ## Description: Number are in range of the language and declared as integers
+int y ;
+int c ;
+int a ;
 
-int y = 123
-int c = 40
-int a = 5000
+y = 123 ;
+c = 40 ;
+a = 5000 ;
