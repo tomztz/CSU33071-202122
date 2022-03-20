@@ -7,5 +7,8 @@
 
 ## Description: Valid string literals in the Toy language
 
-string = "hello" //wow
-string = "You are amazing ! " 
+string a ;
+string b ;
+
+a = "hello" //wow ;
+b = "You are amazing ! "  ;
