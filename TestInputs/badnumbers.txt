@@ -6,5 +6,5 @@
 ## Valid: No
 
 ## Description: Number is too small
-
-a = -32769
+int a ;
+a = -32769 ;
