@@ -10,5 +10,5 @@
 string a ;
 string b ;
 
-a = "hello" //wow ;
+a = "hello" ; //wow 
 b = "You are amazing ! "  ;
