@@ -1,0 +1,18 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: No
+
+// Description: Struct usage that might appear valid but isn't.
+
+struct thing1 { int one }
+struct thing2 { int two }
+
+int main()
+{
+    thing2 thing;
+    thing1 two;
+    thing.two.one = 1;
+}
