@@ -1,0 +1,11 @@
+## Group 66
+
+## - Xiaolei Zhang
+## - Tianze Zhang
+
+## Valid: Yes
+
+## Description: Negative integer minus negative
+
+
+a = -123-12345

@@ -1,0 +1,11 @@
+## Group 66
+
+## - Xiaolei Zhang
+## - Tianze Zhang
+
+## Valid: No
+
+## Description: Integer combined with string literals
+
+
+a = 123b3e4
