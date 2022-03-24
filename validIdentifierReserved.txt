@@ -1,0 +1,12 @@
+## Group 69
+
+## - Alice Doherty
+## - Aoife Khan
+
+## Valid: Yes
+
+## Description: Identifiers cannot be reserved words, however, a reserved word may make up part of an identifier.
+
+void main() {
+    int my_int;
+}
