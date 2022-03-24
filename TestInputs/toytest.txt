@@ -1,0 +1,20 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: Yes
+
+## Description: Sequence of valid reserved words in Toy language
+
+if 
+else
+then
+true
+false
+void
+printf
+string
+struct
+bool
+return

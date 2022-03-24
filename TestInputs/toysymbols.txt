@@ -1,0 +1,26 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: Yes
+
+## Description: All valid symbols in the toy language
+
+;
+<
+>
+==
+<=
+>=
+!=
+!
+(
+
+)
++
+-
+=
+
+
+{}
