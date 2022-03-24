@@ -1,0 +1,12 @@
+## Group 22 
+
+## - Denisa Costinas 
+## - Sarah Dolan 
+
+## valid: Yes 
+
+## description:  expressions allow for programs that do not make much sense 
+
+"Hello World" / 1234 
+
+
