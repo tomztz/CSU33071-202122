@@ -1,0 +1,12 @@
+## Group 03
+
+## - Bernadine Lao
+## - James Deasley
+
+## Valid: Yes
+
+## Description: Valid usage of printf() function.
+
+int x;
+x = 5;
+printf(x);
