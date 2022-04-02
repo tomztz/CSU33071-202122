@@ -1,0 +1,13 @@
+## Group 03
+
+## - Bernadine Lao
+## - James Deasley
+
+## Valid: No
+
+## Description: Cannot redeclare variables once set.
+
+int x;
+x = 5;
+
+int x;
