@@ -1,0 +1,16 @@
+## Group 6
+
+## - Dominik Guzowski
+## - Nicholas Dempsey
+
+## Valid: No
+
+## Description: Only void functions should be allowed to be called outside of expressions.
+
+int randomFunction() {
+    return 1;
+}
+
+void main() {
+    randomFunction();
+}
