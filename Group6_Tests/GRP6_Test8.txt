@@ -1,0 +1,18 @@
+## Group 6
+
+## - Dominik Guzowski
+## - Nicholas Dempsey
+
+## Valid: Yes
+
+## Description: Self-recursive functions.
+
+void recursiveFunction(int n) {
+    if (n <= 0) then return;
+
+    recursiveFunction(n - 1);
+}
+
+void main() {
+    recursiveFunction(10);
+}

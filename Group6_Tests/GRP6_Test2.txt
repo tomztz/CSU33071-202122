@@ -1,0 +1,25 @@
+## Group 6
+
+## - Dominik Guzowski
+## - Nicholas Dempsey
+
+## Valid: Yes
+
+## Description: Struct as a return type from a function, valid type check.
+
+struct Person {
+    string name,
+    int age
+}
+
+void main() {
+	Person newPerson;
+    newPerson = GetPerson("John", 30);
+}
+
+Person GetPerson(string name, int age) {
+    Person p;
+    p.name = name;
+    p.age = age;
+    return p;
+}

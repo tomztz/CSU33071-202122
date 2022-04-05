@@ -1,0 +1,18 @@
+## Group 6
+
+## - Dominik Guzowski
+## - Nicholas Dempsey
+
+## Valid: No
+
+## Description: Invalid parameters passed into a function call.
+
+int add(int a, int b) {
+    return a + b;
+}
+
+void main() {
+    int res;
+    res = add(10, false);
+}
+

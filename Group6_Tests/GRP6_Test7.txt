@@ -1,0 +1,12 @@
+## Group 6
+
+## - Dominik Guzowski
+## - Nicholas Dempsey
+
+## Valid: No
+
+## Description: printf can only be called with a string.
+
+void main() {
+    printf(10);
+}
