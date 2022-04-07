@@ -1,0 +1,14 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: Yes
+
+## Description: initialize and return int declared
+
+int foo(int bar) {
+    int y;
+    y = bar;
+    return y;
+}

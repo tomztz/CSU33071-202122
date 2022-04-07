@@ -1,0 +1,21 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: No
+
+## Description: comment here accidentally removes bracket
+
+int a(void){
+    if(a == 1){
+        int b;
+        if(b == 1){
+            int c;
+            if (c == 1){
+            }
+        }else{
+            return c;
+        }
+//comment here }
+}
