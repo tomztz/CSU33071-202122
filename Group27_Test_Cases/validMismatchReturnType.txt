@@ -1,0 +1,16 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: Yes
+
+## Description: Parser allows return type of function to not match the type of the object returned (will be invalid after implementing type checker).
+
+void main() {
+    printf("test);
+}
+
+string func1() {
+    return 5;
+}
