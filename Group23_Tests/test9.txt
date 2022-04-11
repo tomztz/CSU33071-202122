@@ -1,0 +1,14 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: Yes
+
+## Description: relational expression evaluation
+
+bool A;
+bool B;
+A==B || A!=B||A<B||A>B;
+
+

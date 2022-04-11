@@ -1,0 +1,11 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: No
+
+## Description: no opening and closing brackets on struct
+
+struct right
+int value;
