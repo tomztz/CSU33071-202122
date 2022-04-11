@@ -1,0 +1,16 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: Yes
+
+## Description: Struct must be (and is) declared outside of procedure.
+
+void main() {
+    printf("Test");
+}
+
+struct Test {
+    int a
+}

@@ -1,0 +1,20 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: No
+
+## Description: No two procedures should have the same name (proc1 named twice).
+
+void main() {
+    printf("test");
+}
+
+int proc1() {
+    printf("bla bla");
+}
+
+int proc1() {
+    printf("bla bla");
+}

@@ -1,0 +1,12 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: Yes
+
+## Description: Only one main procedure is present (and allowed).
+
+void main() {
+    printf("Test");
+}

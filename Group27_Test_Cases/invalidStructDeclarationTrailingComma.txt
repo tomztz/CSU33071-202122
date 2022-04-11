@@ -1,0 +1,18 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: No
+
+## Description: Struct declarations are comma separated, where last declaration should have no comma after it.
+
+void main() {
+    printf("test");
+}
+
+struct Person {
+    int age,
+    string name,
+    string favColour,
+}
