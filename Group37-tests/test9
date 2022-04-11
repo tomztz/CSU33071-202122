@@ -1,0 +1,14 @@
+## Group 37
+
+## - Jamie Mcevoy
+## - Holly Mcevoy
+
+## Valid: No
+
+## Description: if loop type mismatch
+
+
+    int a = 10;
+    if (a != "hello") {
+        a = a+1;
+    }

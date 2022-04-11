@@ -1,0 +1,16 @@
+## Group 37
+
+## - Jamie Mcevoy
+## - Holly Mcevoy
+
+## Valid: yes
+
+## Description: check is the != works
+
+    int a = 10;
+    if (a != 10){
+        printf("valid");
+    }
+    else {
+        printf("error");
+    }

@@ -5,15 +5,12 @@
 
 ## Valid: Yes
 
-## Description: while and if else test 
-int i = 0;
-while(i < 5) {
-    i++;
-    if (i < 3 ) {
-        printf("valid");
+## Description: if else test 
+
+int i = 1;
+    if (i <= 3 ) {
+        i = i + 1;
     }
     else {
-        printf("error")
+        i = i - 1;
     }
-}
-
