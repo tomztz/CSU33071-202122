@@ -20,7 +20,7 @@ int main()
 		a = 32;
 		return ac1-a;
 	if( ac2<ac1) then
-	  int b;
+	        int b;
 		b = 21;
 		return ac2*b;
 	else
