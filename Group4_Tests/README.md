@@ -1,9 +1,9 @@
-# Group 4
+# Group 4 Test Cases for ToY Compiler
 
 ## Description
 
 In total we have provided 10 rigorous test cases with complex expressions.   
-5 test cases which should pass and 5 which should fail
+5 test cases which should pass and 5 which should fail.
 
 ## Authors
 
