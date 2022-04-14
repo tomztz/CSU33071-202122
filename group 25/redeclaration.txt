@@ -1,0 +1,13 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Variable i is redeclared 
+
+void main (){
+  int i;
+  string i;
+
+}
