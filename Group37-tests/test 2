@@ -1,0 +1,13 @@
+## Group 37
+
+## - Jamie Mcevoy
+## - Holly Mcevoy
+
+## Valid: No
+
+## Description: undeclared variables in a for loop
+
+    int a;
+    for (a = 0; a < 10 ; a = a + 1); {
+    printf(b);
+    }
