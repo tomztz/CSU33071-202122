@@ -1,0 +1,25 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: Yes
+
+## Description: A valid if expression in toy
+
+void main () {
+   int i ;
+   i = 5 ;
+
+if ( i == 5  ) then {
+   int a ;
+   a = 5 +5;
+}
+else {
+   string word;
+   word = "grjngri" ;
+   
+}
+
+
+
+}

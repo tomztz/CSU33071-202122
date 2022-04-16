@@ -1,0 +1,11 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Variable x is undeclared
+
+void main (){
+    x = 6 ; 
+}

@@ -1,0 +1,12 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Floats are not part of the toy language
+
+void main (){
+    int a ;
+    a = 5.7 ;
+}

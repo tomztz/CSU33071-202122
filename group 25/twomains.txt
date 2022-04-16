@@ -1,0 +1,18 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Two void mains in the file
+
+void main(){
+    int a ;
+    a = 56 * 4 ;
+}
+
+void main (){
+    string b ;
+    b = "yo" ;
+
+}

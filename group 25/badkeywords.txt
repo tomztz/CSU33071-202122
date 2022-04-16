@@ -1,0 +1,12 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Using reserved words as variable names
+
+void main (){
+    int struct ;
+    struct = 9 ;
+}

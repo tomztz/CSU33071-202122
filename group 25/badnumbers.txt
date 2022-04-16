@@ -1,0 +1,14 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Number is too big
+
+void main ()
+{
+ int a ;
+ a = -32769;
+
+}
