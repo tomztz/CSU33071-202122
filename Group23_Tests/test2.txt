@@ -1,0 +1,10 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: No
+
+## Description: String assigned a integer 
+
+String distance = 100;

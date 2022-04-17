@@ -1,0 +1,14 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Bad string literals i.e missing ending "
+
+void main (){
+string a ;
+
+a = "Hello
+
+}

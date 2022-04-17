@@ -1,0 +1,18 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: No
+
+## Description: mismatched if statements
+
+ for (x = 0; x < 10; x = x + 1) {
+        if (x == 4){
+            printf("%d\n", x);
+        }
+        if (x == 5) {
+            printf("%d\n", x);
+            break;
+        }
+    }

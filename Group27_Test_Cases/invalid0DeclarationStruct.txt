@@ -1,0 +1,16 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: No
+
+## Description: Struct must have atleast 1 declaration.
+
+void main() {
+    printf("Test");
+}
+
+struct Test {
+    
+}

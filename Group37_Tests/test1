@@ -1,0 +1,19 @@
+## Group 37
+
+## - Jamie Mcevoy
+## - Holly Mcevoy
+
+## Valid: Yes
+
+## Description: while and if else test 
+
+int i = 0;
+while(i < 5) {
+    i++;
+    if (i <= 3 ) {
+        printf("valid \n");
+    }
+    else {
+        printf("error \n");
+    }
+}

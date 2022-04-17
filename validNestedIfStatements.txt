@@ -1,0 +1,15 @@
+## Group 69
+
+## - Alice Doherty
+## - Aoife Khan
+
+## Valid: Yes
+
+## Description: If statements can be nested.
+
+void main() {
+    int x;
+    int y;
+
+    if (true) then if (true) then x = 1; else y = 2;
+}

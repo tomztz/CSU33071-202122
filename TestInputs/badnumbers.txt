@@ -1,0 +1,10 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: No
+
+## Description: Number is too small
+int a ;
+a = -32769 ;

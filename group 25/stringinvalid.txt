@@ -1,0 +1,14 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: String contains escaped characters
+
+void main ()
+{
+ string a ;
+ a = "Hello \”world\”!" ;
+}
+

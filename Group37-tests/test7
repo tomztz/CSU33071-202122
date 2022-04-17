@@ -1,0 +1,19 @@
+## Group 37
+
+## - Jamie Mcevoy
+## - Holly Mcevoy
+
+## Valid: 
+
+## Description: triple nested if loop 
+
+    int a = 9;
+    if (a < 10) {
+        a = a + 1;
+        if (a = 10) {
+        a= a + 1;
+            if (a = 11) {
+            a = a + 1;
+            }
+        }    
+    }

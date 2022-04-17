@@ -1,0 +1,14 @@
+## Group 69
+
+## - Alice Doherty
+## - Aoife Khan
+
+## Valid: No
+
+## Description: If variables are declared inside a for-statement, they cannot be used outside of it.
+
+void main() {
+    int x;
+    for (x = 1; x < 3; x = x + 1) string invalid;
+    invalid = "This shouldn't work";
+}

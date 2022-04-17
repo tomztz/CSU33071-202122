@@ -1,0 +1,10 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: Yes
+
+## Description: check if comment continues for full line or if it uncomments
+
+//hello // int main 

@@ -1,0 +1,21 @@
+## Group 37
+
+## - Jamie Mcevoy
+## - Holly Mcevoy
+
+## Valid: yes
+
+## Description: working nested if, else if, else loop
+
+    int a;
+    for (a=1; <= 8; a= a+1;){
+        if (a < 3 ) {
+            printf("a is less than 3");
+        }
+        else if  (a > 6) {
+            printf("a is greater than 6");
+        }
+        else {
+            printf("a is neither");
+        }
+    }

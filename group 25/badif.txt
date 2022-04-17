@@ -1,0 +1,22 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: if statement is misiing then keyword
+
+void main () {
+   int i ;
+   if ( i == 5  ) {
+   i = 5 +5;
+}
+else {
+   string word;
+   word = "grjngri" ;
+   
+}
+
+
+
+}

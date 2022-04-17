@@ -1,0 +1,17 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: No
+
+## Description: Declarations in a struct must be comma separated.
+
+void main() {
+    printf("test);    
+}
+
+struct Test {
+    int x
+    int y
+}

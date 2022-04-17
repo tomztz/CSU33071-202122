@@ -1,0 +1,17 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: Yes
+
+// Description: Creating, altering, and returning struct fields.
+
+struct choice { string one, string two }
+
+string makechoice () {
+  choice result;
+  result.one = "left";
+  result.two = "right";
+  return result.one;
+}

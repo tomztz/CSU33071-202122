@@ -1,0 +1,20 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: Yes
+
+// Description: Using the same variable in different scopes
+
+int five () {
+     int result;
+     result = 5;
+     return result;
+}
+ 
+int ten () {
+     int result;
+     result = 10;
+     return result;
+}

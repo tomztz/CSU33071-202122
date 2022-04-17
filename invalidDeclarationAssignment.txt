@@ -1,0 +1,12 @@
+## Group 69
+
+## - Alice Doherty
+## - Aoife Khan
+
+## Valid: No
+
+## Description: ToY does not allow declaration and assignment to be on the same line.
+
+void main() {
+    int x = 0;
+}

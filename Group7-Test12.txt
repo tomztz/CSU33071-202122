@@ -1,0 +1,18 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: Yes
+
+// Description: Multi-level struct usage.
+
+struct decision { string a, string b }
+struct option { decision super, decision great }
+struct choice { option one, option two }
+
+string makechoice()
+{
+    choice c;
+    c.one.super.a = "left";
+}

@@ -1,0 +1,11 @@
+## Group 03
+
+## - Bernadine Lao
+## - James Deasley
+
+## Valid: No
+
+## Description: Undeclared Variables cannot be used
+
+printf(y);
+x=10;

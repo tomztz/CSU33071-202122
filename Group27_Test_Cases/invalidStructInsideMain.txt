@@ -1,0 +1,16 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: No
+
+## Description: Struct cannot be nested inside procedure.
+
+void main() {
+    printf("Test");
+    struct Test {
+        int a,
+        int b
+    }
+}

@@ -1,0 +1,16 @@
+## Group 23
+
+## - Michael Sweeney
+## - Satwik Chandra
+
+## Valid: No
+
+## Description: Not valid as there was no semicolon inserted at the end of printf
+
+
+int main()
+{
+    printf("Hello World")
+
+    return 0;
+}

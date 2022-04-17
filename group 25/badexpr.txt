@@ -1,0 +1,14 @@
+## Group 25
+
+## - Merlin Prasad
+
+## Valid: No
+
+## Description: Mismatch of types of 8 and true
+
+void main (){
+   
+   int a ;
+   a = 8 and true ; 
+
+}

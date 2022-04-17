@@ -1,0 +1,10 @@
+## Group 25
+
+## - Merlin Prasad
+## - Adriana Hrabowych
+
+## Valid: No
+
+## Description: String contains escaped characters
+
+"Hello \”world\”!"

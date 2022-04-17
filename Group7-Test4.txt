@@ -1,0 +1,23 @@
+// Group 7
+
+// - Owen Gallagher
+// - Liam O Lionaird
+
+// Valid: Yes
+
+// Description: Alternating structs and procs in a program
+
+void init () {
+  printf("Initialising...");
+}
+
+struct message {
+  string text
+}
+
+void announce () {
+  message alert;
+  alert.text = "ALERT!";
+  for (int i = 0; i < 5; i++)
+    printf(alert.text);
+}

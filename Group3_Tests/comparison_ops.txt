@@ -1,0 +1,21 @@
+## Group 03
+
+## - Bernadine Lao
+## - James Deasley
+
+## Valid: Yes
+
+## Description: Valid comparison operators
+
+int x;
+x = 10;
+
+int y;
+y = 5;
+
+if(x < y) then {
+    printf(x); 
+}
+else {
+    printf(y);
+}

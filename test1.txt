@@ -1,0 +1,12 @@
+## Group 22
+
+ ## - Sarah Dolan
+ ## - Denisa Costinas
+
+ ## Valid: Yes
+
+ ## Description: declarations and assignments 
+
+
+int x;
+x = 0;

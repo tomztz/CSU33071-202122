@@ -1,0 +1,30 @@
+## Group 6
+
+## - Dominik Guzowski
+## - Nicholas Dempsey
+
+## Valid: Yes
+
+## Description: printf can print string literals, string variables and string fields of a struct.
+
+struct Name {
+    string first,
+    string last
+}
+
+struct Person {
+    Name name,
+    int age
+}
+
+void main() {
+    printf("Valid string literal");
+
+    string s;
+    s = "Valid string variable";
+    printf(s);
+
+    Person p;
+    p.name.first = "Valid struct string field";
+    printf(p.name.first);
+}

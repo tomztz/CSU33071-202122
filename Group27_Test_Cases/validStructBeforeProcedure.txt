@@ -1,0 +1,16 @@
+## Group 27
+
+## - Stephen Davis
+## - Aaron Byrne
+
+## Valid: Yes
+
+## Description: Program can declare struct before procedure.
+
+struct Person {
+    int age
+}
+
+void main() {
+    printf("test);
+}
